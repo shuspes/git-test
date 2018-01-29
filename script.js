@@ -1,4 +1,4 @@
 console.log("test");
 console.log("next test 123");
-console.log("to another branch");
 var pepelac = "variable";
+var test = 123;
